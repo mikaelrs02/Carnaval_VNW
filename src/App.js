@@ -21,7 +21,7 @@ class Carnaval extends Component {
   render() {
     return (
       <>
-        <div className="carnaval"><h1>Carnaval VNW</h1></div>
+        <div className="carnavalH1"><h1>Carnaval VNW</h1></div>
         <section className="main">
           {this.state.fantasias.map((item) => (
             <div className="fantasia">
