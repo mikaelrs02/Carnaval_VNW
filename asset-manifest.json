@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mikaelrs02/Carnaval_VNW/static/css/main.3cc3ba8e.css",
+    "main.js": "/mikaelrs02/Carnaval_VNW/static/js/main.7e1f9075.js",
+    "static/js/787.330a48a7.chunk.js": "/mikaelrs02/Carnaval_VNW/static/js/787.330a48a7.chunk.js",
+    "static/media/fada.png": "/mikaelrs02/Carnaval_VNW/static/media/fada.0469b5b3fd0d93daddf9.png",
+    "static/media/zumbi.png": "/mikaelrs02/Carnaval_VNW/static/media/zumbi.248e0f1c57aac1b835fd.png",
+    "static/media/bruxa.png": "/mikaelrs02/Carnaval_VNW/static/media/bruxa.4481b3d96be2fe2dba29.png",
+    "static/media/vampiro.png": "/mikaelrs02/Carnaval_VNW/static/media/vampiro.5da33f1cf77ec068d39d.png",
+    "static/media/pirata.png": "/mikaelrs02/Carnaval_VNW/static/media/pirata.2168b4ce66068ae2fa99.png",
+    "static/media/fantasma.png": "/mikaelrs02/Carnaval_VNW/static/media/fantasma.d0e835eab5132360989d.png",
+    "index.html": "/mikaelrs02/Carnaval_VNW/index.html",
+    "main.3cc3ba8e.css.map": "/mikaelrs02/Carnaval_VNW/static/css/main.3cc3ba8e.css.map",
+    "main.7e1f9075.js.map": "/mikaelrs02/Carnaval_VNW/static/js/main.7e1f9075.js.map",
+    "787.330a48a7.chunk.js.map": "/mikaelrs02/Carnaval_VNW/static/js/787.330a48a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cc3ba8e.css",
+    "static/js/main.7e1f9075.js"
+  ]
+}
